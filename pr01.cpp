@@ -1,3 +1,4 @@
+// Write a program to demonstrate the use of static data members.
 #include <iostream>
 using namespace std;
 class Test
