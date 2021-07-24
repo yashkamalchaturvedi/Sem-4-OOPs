@@ -1,3 +1,4 @@
+// Write a program to Use Class Template
 #include <iostream>
 using namespace std;
 template <class T>
