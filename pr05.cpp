@@ -1,3 +1,4 @@
+// Write a program to demonstrate the Multiple Inheritance
 #include <iostream>
 using namespace std;
 class Vehicle
