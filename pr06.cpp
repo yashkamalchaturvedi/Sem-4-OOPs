@@ -1,3 +1,4 @@
+// Write a program to demonstrate the Dynamic Constructor
 #include <iostream>
 using namespace std;
 class dyncons
