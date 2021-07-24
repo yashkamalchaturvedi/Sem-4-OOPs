@@ -1,3 +1,4 @@
+// Write a program to demonstrate Zero Argument Constructor
 #include <iostream>
 using namespace std;
 class construct
