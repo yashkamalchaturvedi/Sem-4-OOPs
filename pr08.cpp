@@ -1,3 +1,4 @@
+// Write a program to demonstrate Parameterized Constructor
 #include <iostream>
 using namespace std;
 class Point
